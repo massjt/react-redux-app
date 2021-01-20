@@ -16,10 +16,17 @@
 
     all the node follow tree structure
     at the top of data is `state`
-    `prop` transfer data
+    `props` transfer data
 
     `setState` => update and edit data
 
 ### random image service
     [robohash](https://robohash.org)
-    
+
+### component lifecycle
+
+    [lifecycle](https://reactjs.org/docs/react-component.html)
+    automatically trigger
+    Mounting -> Updating -> Unmounting
+
+    notice: In the part of `Updating` contains render()
