@@ -30,3 +30,8 @@
     Mounting -> Updating -> Unmounting
 
     notice: In the part of `Updating` contains render()
+
+### props.children
+
+    parent node can use `props.children` get child node
+
